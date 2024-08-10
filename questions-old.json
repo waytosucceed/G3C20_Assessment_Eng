@@ -1,0 +1,511 @@
+{
+  "heading": "Select a Topic",
+  "topics": [
+    {
+      "heading": "3 Letter Consonants and Consonant Blends",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Identify the consonant blend in the word 'stroke':",
+          "options": ["st", "tr", "kr", "sk"],
+          "answer": "st",
+          "image": "",
+          "explanation": "The 'st' blend combines the sounds of the consonants 's' and 't,' which are pronounced together smoothly in the word 'stroke.'"
+        },
+        {
+          "questionNo": 2,
+          "question": "Identify the consonant blend in the word 'clever':",
+          "options": ["cl", "le", "an", "ea"],
+          "answer": "cl",
+          "image": "",
+          "explanation": "The word 'clever' contains the consonant blend 'cl.'"
+        },
+        {
+          "questionNo": 3,
+          "question": "Which of the following words contains a three-letter consonant blend?",
+          "options": ["spring", "scope", "car", "break"],
+          "answer": "spring",
+          "image": "",
+          "explanation": "The word 'spring' contains the three-letter consonant blend 'spr.'"
+        },
+        {
+          "questionNo": 4,
+          "question": "Which of the following words does not contain a consonant blend?",
+          "options": ["trap", "clap", "cat", "drink"],
+          "answer": "cat",
+          "image": "",
+          "explanation": "The word 'cat' does not contain a consonant blend."
+        },
+        {
+          "questionNo": 5,
+          "question": "Identify the three-letter consonant blend in the word 'splash':",
+          "options": ["pla", "apl", "spl", "ash"],
+          "answer": "spl",
+          "image": "",
+          "explanation": "The word 'splash' contains the consonant blend 'spl.'"
+        },
+        {
+          "questionNo": 6,
+          "question": "The word 'blow' contains a consonant blend.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "image": "",
+          "explanation": "The word 'blow' contains the consonant blend 'bl.'"
+        },
+        {
+          "questionNo": 7,
+          "question": "Identify the consonant blend in the word 'planet':",
+          "options": ["pl", "la", "an", "nt"],
+          "answer": "pl",
+          "image": "",
+          "explanation": "The word 'planet' contains the consonant blend 'pl.'"
+        }
+      ]
+    },
+    {
+      "heading": "Multisyllabic Words",
+      "questions": [
+        {
+          "questionNo": 8,
+          "question": "Which word follows the 'consonant with i-e' pattern?",
+          "options": ["listed", "side", "rain", "none of the above"],
+          "answer": "side",
+          "image": "",
+          "explanation": "In the 'consonant with i-e' pattern, the 'i-e' combination represents the long 'i' sound after a consonant. The word 'side' follows this pattern, with the 'i-e' making the long 'i' sound after the consonant 's'."
+        },
+        {
+          "questionNo": 9,
+          "question": "A closed syllable is a syllable in a word that ends with a vowel sound.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "image": "",
+          "explanation": "A closed syllable is a syllable in a word that ends with a consonant sound. For example: Consonants like 'p' in 'hop'."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which word does not follow the 'consonant with i-e' pattern?",
+          "options": ["Side", "Bribe", "River", "Hike"],
+          "answer": "River",
+          "image": "",
+          "explanation": "The word 'River' does not follow the 'consonant with i-e' pattern because it does not have the 'i-e' combination representing the long 'i' sound after a consonant."
+        },
+        {
+          "questionNo": 11,
+          "question": "The word 'remove' has an open syllable.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "image": "",
+          "explanation": "The word 'remove' has two syllables: 're' and 'move'. These are open syllables because they end with the vowel sound 'e'."
+        },
+        {
+          "questionNo": 12,
+          "question": "The word 'program' has an open syllable.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "image": "",
+          "explanation": "The word 'program' has two syllables: 'pro' and 'gram'. The first syllable 'pro' is an open syllable because it ends with the vowel sound 'o'."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which of the following has an 'open' first syllable?",
+          "options": ["rab-bit", "rad-ish", "sal-on", "ha-lo"],
+          "answer": "ha-lo",
+          "image": "",
+          "explanation": "The first syllable is 'ha', which ends with a vowel 'a'. This is an open syllable."
+        },
+        {
+          "questionNo": 14,
+          "question": "The word 'laptop' has an 'open' first syllable.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "image": "",
+          "explanation": "The word 'laptop' is divided into two syllables: 'lap' and 'top'. The first syllable 'lap' is a closed syllable because it ends with the consonant sound 'p'."
+        }
+      ]
+    },
+    {
+      "heading": "Verbs (Action Verbs)",
+      "questions": [
+        {
+          "questionNo": 15,
+          "question": "The athlete ______ the finish line with ease.",
+          "options": ["ran", "jumped", "walked", "sat"],
+          "answer": "ran",
+          "image": "",
+          "explanation": "'Ran' is an action verb that describes the movement of the athlete towards the finish line."
+        },
+        {
+          "questionNo": 16,
+          "question": "Action verbs are used to denote physical actions only.",
+          "options": ["True", "False"],
+          "answer": "False",
+          "image": "",
+          "explanation": "Action verbs can denote both physical actions (run, jump, eat) and mental actions (think, remember, decide)."
+        },
+        {
+          "questionNo": 17,
+          "question": "The baker ______ the cake batter with care.",
+          "options": ["smelled", "tasted", "mixed", "watched"],
+          "answer": "mixed",
+          "image": "",
+          "explanation": "'Mixed' is an action verb that describes the physical action of combining the ingredients of the cake batter."
+        },
+        {
+          "questionNo": 18,
+          "question": "The artist ______ a beautiful landscape painting.",
+          "options": ["created", "admired", "purchased", "sold"],
+          "answer": "created",
+          "image": "",
+          "explanation": "'Created' is an action verb that describes the act of bringing the landscape painting into existence through artistic means."
+        }
+      ]
+    },
+    {
+      "heading": "Verbs (Helping Verbs)",
+      "questions": [
+        {
+          "questionNo": 19,
+          "question": "The engineers _____ completed their project.",
+          "options": ["is", "are", "has", "have"],
+          "answer": "have",
+          "image": "",
+          "explanation": "'Have' is used with 'engineers' (plural) in the present time."
+        },
+        {
+          "questionNo": 20,
+          "question": "He _____ a professional cricketer.",
+          "options": ["am", "is", "are", "were"],
+          "answer": "is",
+          "image": "",
+          "explanation": "The helping verb 'is' is used with the singular subject 'He' in the present time."
+        },
+        {
+          "questionNo": 21,
+          "question": "The helping verb 'was' is used with the subject to describe the past action.",
+          "options": ["True", "False"],
+          "answer": "True",
+          "image": "",
+          "explanation": "The helping verb 'was' tells about something in the past for one person or thing."
+        },
+        {
+          "questionNo": 22,
+          "question": "We ______ tired after the long hike.",
+          "options": ["was", "is", "are", "were"],
+          "answer": "were",
+          "image": "",
+          "explanation": "'Were' is a helping verb used with the word 'tired' to show the past time for the plural subject 'we.'"
+        }
+      ]
+    },
+    {
+      "heading": "Comparing Adjectives",
+      "questions": [
+        {
+          "questionNo": 23,
+          "question": "Tom is ______ than his brother.",
+          "options": ["tall", "taller", "tallest", "more tall"],
+          "answer": "taller",
+          "image": "",
+          "explanation": "'Taller' is the comparative form of the adjective 'tall' used to compare two people in this sentence."
+        },
+        {
+          "questionNo": 24,
+          "question": "This car is the ______ in its class.",
+          "options": ["fast", "faster", "fastest", "most fast"],
+          "answer": "fastest",
+          "image": "",
+          "explanation": "'Fastest' is the superlative form of the adjective 'fast' used to compare more than two cars in this sentence."
+        },
+        {
+          "questionNo": 25,
+          "question": "The weather today is ______ than yesterday.",
+          "options": ["hot", "hotter", "hottest", "more hot"],
+          "answer": "hotter",
+          "image": "",
+          "explanation": "'Hotter' is the comparative form of the adjective 'hot' used to compare two entities."
+        },
+        {
+          "questionNo": 26,
+          "question": "Her painting is ______ than mine.",
+          "options": ["beautiful", "more beautiful", "most beautiful", "beautifuller"],
+          "answer": "more beautiful",
+          "image": "",
+          "explanation": "'More beautiful' is the comparative form of the adjective 'beautiful' used to compare two entities."
+        },
+        {
+          "questionNo": 27,
+          "question": "Which option has the adjective in the positive form? 'The _____ candy was delicious.'",
+          "options": ["yummier", "yummiest", "yummy", "more yummy"],
+          "answer": "yummy",
+          "image": "",
+          "explanation": "This is the base positive form of the adjective without any comparative or superlative endings added."
+        },
+        {
+          "questionNo": 28,
+          "question": "This book is ______ than any other book I've read.",
+          "options": ["interesting", "more interesting", "most interesting", "interestinger"],
+          "answer": "most interesting",
+          "image": "",
+          "explanation": "'Most interesting' is the superlative form of the adjective 'interesting' used to compare more than two entities."
+        },
+        {
+          "questionNo": 29,
+          "question": "She is the ______ student in the class.",
+          "options": ["smart", "smarter", "smartest", "most smart"],
+          "answer": "smartest",
+          "image": "",
+          "explanation": "'Smartest' is the superlative form of the adjective 'smart' used to compare more than two students in this sentence."
+        },
+        {
+          "questionNo": 30,
+          "question": "The movie was ______ than the book.",
+          "options": ["exciting", "more exciting", "most exciting", "excitinger"],
+          "answer": "more exciting",
+          "image": "",
+          "explanation": "'More exciting' is the comparative form of the adjective 'exciting' used to compare two entities."
+        }
+      ]
+    },
+    {
+      "heading": "Subject and Predicate",
+      "questions": [
+        {
+          "questionNo": 31,
+          "question": "In the sentence 'The cat chased the mouse,' the subject is ______.",
+          "options": ["the cat", "chased the mouse", "the mouse", "The cat chased"],
+          "answer": "the cat",
+          "image": "",
+          "explanation": "The subject is the noun or pronoun that performs the action stated by the verb. In this sentence, 'the cat' is the subject."
+        },
+        {
+          "questionNo": 32,
+          "question": "The predicate of the sentence 'Birds fly in the sky' is ______.",
+          "options": ["Birds", "fly in the sky", "in the sky", "Birds fly"],
+          "answer": "fly in the sky",
+          "image": "",
+          "explanation": "The predicate is the part of the sentence that tells something about the subject. In this sentence, 'fly in the sky' is the predicate."
+        },
+        {
+          "questionNo": 33,
+          "question": "The subject of 'John and Austin played fetch' is:",
+          "options": ["fetch", "played fetch", "John and Austin", "Austin"],
+          "answer": "John and Austin",
+          "image": "",
+          "explanation": "When joined by 'and', both nouns make up the complete subject."
+        },
+        {
+          "questionNo": 34,
+          "question": "In the sentence 'She loves to read books,' ______ is the subject.",
+          "options": ["She", "loves to read", "books", "She loves"],
+          "answer": "She",
+          "image": "",
+          "explanation": "The subject is the noun or pronoun that performs the action stated by the verb. In this sentence, 'She' is the subject."
+        },
+        {
+          "questionNo": 35,
+          "question": "The predicate of the sentence 'We enjoyed the picnic' is ______.",
+          "options": ["We", "enjoyed the picnic", "the picnic", "We enjoyed"],
+          "answer": "enjoyed the picnic",
+          "image": "",
+          "explanation": "The predicate is the part of the sentence that tells something about the subject. In this sentence, 'enjoyed the picnic' is the predicate."
+        }
+      ]
+    },
+    {
+      "heading": "Conjunctions",
+      "questions": [
+        {
+          "questionNo": 36,
+          "question": "I like to read books ______ watch movies.",
+          "options": ["and", "but", "because", "when"],
+          "answer": "and",
+          "image": "",
+          "explanation": "'And' is a coordinating conjunction that joins two independent clauses or sentences of equal importance."
+        },
+        {
+          "questionNo": 37,
+          "question": "We went to the park ______ it was a sunny day.",
+          "options": ["and", "but", "because", "or"],
+          "answer": "because",
+          "image": "",
+          "explanation": "'Because' is a subordinating conjunction that introduces a dependent clause and shows the reason or cause."
+        },
+        {
+          "questionNo": 38,
+          "question": "She was tired, ______ she decided to take a nap.",
+          "options": ["and", "but", "so", "when"],
+          "answer": "so",
+          "image": "",
+          "explanation": "'So' is a coordinating conjunction that joins two independent clauses or sentences and shows a result or consequence."
+        },
+        {
+          "questionNo": 39,
+          "question": "Which of the following is a subordinating conjunction?",
+          "options": ["Nor", "And", "After", "Or"],
+          "answer": "After",
+          "image": "",
+          "explanation": "'After' is a subordinating conjunction used to introduce a dependent clause that provides information about time or sequence."
+        },
+        {
+          "questionNo": 40,
+          "question": "I like to travel, ______ I don't have enough money.",
+          "options": ["and", "but", "because", "when"],
+          "answer": "but",
+          "image": "",
+          "explanation": "'But' is a coordinating conjunction that joins two independent clauses or sentences and shows a contrast or opposition."
+        }
+      ]
+    },
+    {
+      "heading": "Prepositions",
+      "questions": [
+        {
+          "questionNo": 41,
+          "question": "The bottle is ______ the floor.",
+          "options": ["on", "in", "at", "under"],
+          "answer": "on",
+          "image": "",
+          "explanation": "'On' is a preposition that indicates the position or location of the bottle concerning the floor."
+        },
+        {
+          "questionNo": 42,
+          "question": "We are going ______ a trip to the mountains.",
+          "options": ["in", "on", "at", "for"],
+          "answer": "for",
+          "image": "",
+          "explanation": "'For' is a preposition that indicates the purpose or reason for going on a trip."
+        },
+        {
+          "questionNo": 43,
+          "question": "The mouse is hiding ______ the sofa.",
+          "options": ["on", "under", "in", "at"],
+          "answer": "under",
+          "image": "",
+          "explanation": "'Under' is a preposition that indicates the position or location of the mouse in relation to the sofa."
+        },
+        {
+          "questionNo": 44,
+          "question": "I will meet you ______ the park ______ 3 p.m.",
+          "options": ["at, at", "on, since", "on, at", "for, in"],
+          "answer": "at, at",
+          "image": "",
+          "explanation": "The first 'at' is a preposition indicating the location, and the second 'at' is a preposition indicating the time."
+        },
+        {
+          "questionNo": 45,
+          "question": "What is the prepositional phrase in this sentence: 'The aeroplane flew through the clouds.'",
+          "options": ["The aeroplane", "flew", "through the clouds", "clouds"],
+          "answer": "through the clouds",
+          "image": "",
+          "explanation": "'Through the clouds' starts with the preposition 'through' and ends with the noun 'clouds', making it a prepositional phrase."
+        }
+      ]
+    },
+    {
+      "heading": "Commas and Capitalisation",
+      "questions": [
+        {
+          "questionNo": 46,
+          "question": "______ is the capital city of France.",
+          "options": ["paris", "Paris", "PARIS", "PaRiS"],
+          "answer": "Paris",
+          "image": "",
+          "explanation": "The names of cities, countries, and proper nouns should be capitalised."
+        },
+        {
+          "questionNo": 47,
+          "question": "Which of the following is capitalised correctly?",
+          "options": ["The darling harbour in Sydney.", "The darling Harbour in sydney.", "The Darling Harbour in Sydney.", "The Darling harbour in Sydney."],
+          "answer": "The Darling Harbour in Sydney.",
+          "image": "",
+          "explanation": "Proper names of institutions and places should be capitalised."
+        },
+        {
+          "questionNo": 48,
+          "question": "We visited Paris____ France____ last summer.",
+          "options": [",", ", .", ", ,", "No comma needed"],
+          "answer": ",",
+          "image": "",
+          "explanation": "A comma is used to separate the city name 'Paris' from the country name 'France' when they appear together in a sentence."
+        },
+        {
+          "questionNo": 49,
+          "question": "Which is the correct possessive form for a singular noun?",
+          "options": ["Austins", "Austin’s", "Austins’", "None of the above"],
+          "answer": "Austin’s",
+          "image": "",
+          "explanation": "For singular nouns ending in 's,' we usually add (s) to show possession."
+        },
+        {
+          "questionNo": 50,
+          "question": "Fill in the blank with the correct possessive form: The __________ (cats) collars are different colours.",
+          "options": ["cat’s", "cats’"],
+          "answer": "cats’",
+          "image": "",
+          "explanation": "'Cats' is a plural noun, so we add an apostrophe after the 's' to show possession."
+        },
+        {
+          "questionNo": 51,
+          "question": "In the sentence 'my anniversary is in february', which word needs to be capitalised?",
+          "options": ["my", "anniversary", "february", "Both a and c"],
+          "answer": "Both a and c",
+          "image": "",
+          "explanation": "The correct sentence will be: 'My anniversary is in February.' 'My' is the first word of the sentence and 'February' is a proper noun."
+        }
+      ]
+    },
+    {
+      "heading": "Sentences",
+      "questions": [
+        {
+          "questionNo": 52,
+          "question": "Which of the following is a complete sentence?",
+          "options": ["The lion roared.", "Chasing the squirrel.", "Ran quickly down the street.", "And then it rained."],
+          "answer": "The lion roared.",
+          "image": "",
+          "explanation": "This is a complete sentence because it has a subject (The lion) and a verb (roared), and it expresses a complete thought."
+        },
+        {
+          "questionNo": 53,
+          "question": "Identify the fragment sentence:",
+          "options": ["She sang a beautiful song.", "Walking along the beach.", "The car was parked in the driveway.", "They decided to go for a hike."],
+          "answer": "Walking along the beach.",
+          "image": "",
+          "explanation": "This is a fragment sentence because it lacks a subject and a verb, and it does not express a complete thought."
+        },
+        {
+          "questionNo": 54,
+          "question": "Which of the following is a run-on sentence?",
+          "options": ["The sun was shining, and the birds were singing.", "He went to the store he bought some groceries.", "I love to read books, especially mystery novels.", "The team played well, but they lost the game."],
+          "answer": "He went to the store he bought some groceries.",
+          "image": "",
+          "explanation": "This is a run-on sentence because it contains two independent clauses joined without proper punctuation or a conjunction."
+        },
+        {
+          "questionNo": 55,
+          "question": "Which of the following is a fragment sentence?",
+          "options": ["The artist painted a beautiful landscape.", "Because the weather was nice.", "We decided to go for a picnic.", "The movie was exciting to watch."],
+          "answer": "Because the weather was nice.",
+          "image": "",
+          "explanation": "This is a fragment sentence because it lacks a main clause and does not express a complete thought on its own."
+        },
+        {
+          "questionNo": 56,
+          "question": "Identify the complete sentence:",
+          "options": ["After the rain stopped.", "The children playing in the park.", "The teacher explained the lesson clearly.", "Having finished the project."],
+          "answer": "The teacher explained the lesson clearly.",
+          "image": "",
+          "explanation": "This is a complete sentence because it has a subject ('The teacher'), a verb ('explained'), and it expresses a complete thought."
+        },
+        {
+          "questionNo": 57,
+          "question": "What do we call a sentence that joins two or more complete sentences without proper punctuation?",
+          "options": ["Complete sentence", "Fragment sentence", "Run-on sentence", "Compound sentence"],
+          "answer": "Run-on sentence",
+          "image": "",
+          "explanation": "A run-on sentence is formed when two or more complete sentences are joined without proper punctuation or conjunctions."
+        }
+      ]
+    }
+  ]
+}
